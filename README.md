@@ -5,7 +5,7 @@
 ## About this Repository
 
 This repository provides Python code and Jupyter Notebooks accompanying the
-_**Financial Theory with Python&mdash;A Gentle Introduction**_ book published by [O'Reilly](https://learning.oreilly.com/library/view/financial-theory-with/9781098104344/).
+_**Financial Theory with Python &mdash; A Gentle Introduction**_ book published by [O'Reilly](https://learning.oreilly.com/library/view/financial-theory-with/9781098104344/).
 
 <img src="https://hilpisch.com/finpy_cover.png" width="500">
 
