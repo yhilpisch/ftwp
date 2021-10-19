@@ -4,11 +4,13 @@
 
 ## About this Repository
 
-This repository provides Python code and Jupyter Notebooks accompanying the **Financial Theory with Python--A Gentle Introduction** book published by [O'Reilly](https://learning.oreilly.com/library/view/financial-theory-with/9781098104344/).
+This repository provides Python code and Jupyter Notebooks accompanying the
+_**Financial Theory with Python&mdash;A Gentle Introduction**_ book published by [O'Reilly](https://learning.oreilly.com/library/view/financial-theory-with/9781098104344/).
 
 <img src="https://hilpisch.com/finpy_cover.png" width="500">
 
-You can **register for free** on our [Quant Platform](http://finpy.pqp.io) to make easy use of the Python code in the cloud.
+You can **register for free** on our [Quant Platform](http://finpy.pqp.io) to make
+easy use of the Python code in the cloud. No local Python installation is required.
 
 ## Copyright & Disclaimer
 
